@@ -8,7 +8,10 @@ A fully functional **Chip-8 Interpreter** written in **Java**. This project emul
 
 It can successfully run standard Chip-8 ROMs like *IBM Logo*, *Pong*, and *Space Invaders*.
 
-![Emulator Screenshot](screenshot.png)
+
+
+https://github.com/user-attachments/assets/2c899619-8582-4858-b357-8fbdd26f56a9
+
 
 ## ⚙️ Key Features
 * **Opcode Implementation:** Handled all 35 standard opcodes including arithmetic, graphics, and flow control.
